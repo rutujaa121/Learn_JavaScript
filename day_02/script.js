@@ -6,7 +6,7 @@
 
 // String 
 let userName = "Rutuja"
-console.log(typeof userName)
+console.log(typeof userName + " " + userName)
 
 let subject = "Javascript"
 console.log(typeof subject)
