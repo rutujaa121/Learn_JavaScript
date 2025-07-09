@@ -29,4 +29,8 @@ console.log(typeof who_wins)
 // + ===> Addition 
 let first_number = 100
 let second_number = 300
-console.log(first_number + second_number)
+
+let result = first_number + second_number
+console.log(result)
+
+// console.log(first_number + second_number)
