@@ -34,3 +34,10 @@ let result = first_number + second_number
 console.log(result)
 
 // console.log(first_number + second_number)
+
+// - ===> Subtraction
+let first_no = 10
+let second_no = 20
+
+console.log(first_no - second_no)
+
