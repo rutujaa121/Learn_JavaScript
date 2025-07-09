@@ -23,3 +23,10 @@ console.log(typeof isValidUser)
 // Undefined 
 let who_wins
 console.log(typeof who_wins)
+
+
+//============= Operators ============= 
+// + ===> Addition 
+let first_number = 100
+let second_number = 300
+console.log(first_number + second_number)
