@@ -18,3 +18,8 @@ console.log(typeof isLoggedIn)
 
 let isValidUser = true
 console.log(typeof isValidUser)
+
+
+// Undefined 
+let who_wins
+console.log(typeof who_wins)
