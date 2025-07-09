@@ -15,3 +15,6 @@ console.log(typeof subject)
 // Boolean 
 let isLoggedIn = true
 console.log(typeof isLoggedIn)
+
+let isValidUser = true
+console.log(typeof isValidUser)
