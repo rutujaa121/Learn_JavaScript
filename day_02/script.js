@@ -41,3 +41,9 @@ let second_no = 20
 
 console.log(first_no - second_no)
 
+
+// * ===> Multiplication
+let first = 10
+let second = 20
+
+console.log(first * second)
