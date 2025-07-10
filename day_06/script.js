@@ -22,5 +22,14 @@ switch(days){
     case 31:
         console.log("31 days")
         break;
-
+    case 30:
+        console.log("30 days")
+        break;
+    case 28:
+        console.log("28 days")
+        break;
+    case 29:
+        console.log("29 days")
+        break;
+    
 }
