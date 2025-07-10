@@ -35,3 +35,15 @@ switch(days){
 }
 
 let fruits = "apple"
+switch(fruits){
+    case "apple":
+        console.log("red")
+        break;
+    case "banana":
+        console.log("yellow")
+        break;
+    case "orange":
+        console.log("orange")
+        break;
+        
+}
