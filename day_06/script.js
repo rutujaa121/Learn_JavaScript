@@ -7,5 +7,9 @@ switch(month){
     case "february":
         console.log("28 days")
         break;
+    case "march":
+        console.log("31 days")
+        break;
+    
     
 }
