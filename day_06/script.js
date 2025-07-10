@@ -45,5 +45,8 @@ switch(fruits){
     case "orange":
         console.log("orange")
         break;
-        
+    default :
+     console.log(fruits, "is not available")
+     break;
 }
+console.log("After Switch")
