@@ -13,7 +13,14 @@ switch(month){
     case "april":
         console.log("30 days")
         break;
-
     
 }
 
+let days = 31
+ 
+switch(days){
+    case 31:
+        console.log("31 days")
+        break;
+
+}
