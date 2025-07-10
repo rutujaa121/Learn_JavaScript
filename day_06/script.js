@@ -31,5 +31,7 @@ switch(days){
     case 29:
         console.log("29 days")
         break;
-    
+
 }
+
+let fruits = "apple"
