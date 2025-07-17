@@ -5,3 +5,4 @@ document.write(`<h1> Hello <br> Welcome to JavaScript</h1>
     `)
 
 document.title("JavaScript")
+document.URL('www.instagram.com')
