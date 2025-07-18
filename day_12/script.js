@@ -20,7 +20,7 @@ console.log(mycity)
 
 
 // ================        3         ================
-const user = {
+const instaUser = {
     
 }
 
