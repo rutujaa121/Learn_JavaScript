@@ -21,8 +21,8 @@ console.log(mycity)
 
 // ================        3         ================
 const instaUser = {
-    user : ["Rutuja", "Kshitija"]
-    
+    user :  "Kshitija"]
+
 }
 
 
