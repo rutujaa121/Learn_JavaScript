@@ -23,6 +23,6 @@ console.log(mycity)
 
 
 
-// // ================        4         ================
-// let userName = "Rutuja"
-// console.log(userName.length)
+// ================        4         ================
+let userName = "Rutuja"
+console.log(userName.length)
