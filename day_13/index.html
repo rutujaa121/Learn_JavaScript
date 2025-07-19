@@ -4,8 +4,47 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        ul{
+        display: flex;
+        list-style-type: none;
+    }
+    ul li{
+        margin: 30px;
+        cursor: pointer;
+    }
+    span{
+        margin: 30px;
+        padding: 30px;
+    }
+    span a{
+        color: rgb(10, 119, 119);
+        text-decoration: none;
+        text-transform: uppercase;
+        text-shadow: 2px 2px 5px rebeccapurple;
+        
+    }
+    
+    </style>
 </head>
 <body>
+
+    <h1>Hello</h1>
+    <nav>
+        <ul>
+            <li>Home</li>
+            <li>About</li>
+            <li>Contact</li>
+            <li>Home</li>
+        </ul>
+    </nav>
+
+    <nav>
+        <span class="home"><a href="./home.html">Home</a></span>
+        <span> <a href="./home.html">About</a></span>
+        <span> <a href="./home.html">Contact</a></span>
+        <span> <a href="./home.html">Home</a></span>
+    </nav>
     <script src="./script.js"></script>
 </body>
 </html>
