@@ -4,4 +4,10 @@ const person = {
     city : "newasa",
     education : ["10th", "12th", "BCS"]
 }
-console.log(person)
+person.gender = "female";
+console.log(person);
+
+console.log(Object.keys(person));
+console.log(Object.values(person));
+console.log(Object.entries(person));
+
