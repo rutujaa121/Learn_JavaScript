@@ -22,3 +22,5 @@ console.warn("This Third Line Break..........!!!!!!");
 
 
 // ====================        4       ====================
+let days = ['sunday','monday','tuesday','wednesday','thursday','friday','saturday'];
+console.log(days[0]);
