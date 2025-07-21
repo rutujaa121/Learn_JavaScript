@@ -46,3 +46,6 @@ console.warn("This is Sixth Line Break..........!!!!!!");
 
 
 // ====================        7       ====================
+let girls = ['rutuja', 'kshitija', 'rupali']
+console.log(girls[0]);
+console.log(girls);
