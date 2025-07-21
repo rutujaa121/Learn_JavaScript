@@ -38,3 +38,6 @@ console.warn("This is Fifth Line Break..........!!!!!!");
 
 
 // ====================        6       ====================
+let subjects = ['c++', 'dsa', 'java', 'c'];
+console.log(subjects[2]);
+console.log(subjects)
