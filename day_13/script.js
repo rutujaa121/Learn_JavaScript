@@ -1,6 +1,6 @@
 // ========================        1       ========================
 const person = {
-    name : "easyCode",
+    name : "Rutuja",
     age : 20,
     city : "newasa",
     education : ["10th", "12th", "BCS"]
