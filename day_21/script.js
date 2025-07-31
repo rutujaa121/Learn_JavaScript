@@ -16,3 +16,6 @@ console.log(time.getHours() % 12);
 console.log(time.getMinutes());
 console.log(time.getSeconds());
 console.log(time.getMilliseconds());
+
+
+console.warn("......====......");
