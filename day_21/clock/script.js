@@ -8,6 +8,6 @@ const generateTime=()=>{
 
     timeContainer.innerHTML = `${hour%12||12}:: ${min} :: ${sec} <span id="mili-sec"> ${milliSec} </span>`
 
-    dateContainer.innerHTML
+    dateContainer.innerHTML = `${date.getDate()} / ${months.[date.getMonth()]} / ${date.getFullYear()}`
     console.log(date)
 }
