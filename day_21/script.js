@@ -10,9 +10,9 @@
 
 // console.warn("......====......");
 
-let date = new Date()
-console.log(date.getHours());
-console.log(date.getHours() % 12);
-console.log(date.getMinutes());
-console.log(date.getSeconds());
-console.log(date.getMilliseconds());
+let time = new Date()
+console.log(time.getHours());
+console.log(time.getHours() % 12);
+console.log(time.getMinutes());
+console.log(time.getSeconds());
+console.log(time.getMilliseconds());
