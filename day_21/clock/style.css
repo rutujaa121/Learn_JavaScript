@@ -9,3 +9,6 @@ body{
 body h1{
     font-size: 7em;
 }
+body h1 #mili-sec{
+    font-size: 1em;
+}
