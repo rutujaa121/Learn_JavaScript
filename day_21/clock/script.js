@@ -1,4 +1,7 @@
-let timeContainer = document.getElementById("timeContainer");
+let timeContainer = document.getElementById("time-container");
+let dateContainer = document.getElementById("date-container");
+let months = ["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"]
+
 const generateTime=()=>{
     let date = new Date();
     let hour = date.getHours();
