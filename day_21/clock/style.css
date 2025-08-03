@@ -6,3 +6,6 @@ body{
     justify-content: center;
     color: whitesmoke;
 }
+body h1{
+    font-size: 7em;
+}
