@@ -14,5 +14,5 @@ const generateTime = () =>{
     dateContainer.innerHTML = `${date.getDate()} / ${months[date.getMonth()]} / ${date.getFullYear()}`
 }
  setInterval(()=>{
-    ganarateTime()
+    generateTime()
  },1)

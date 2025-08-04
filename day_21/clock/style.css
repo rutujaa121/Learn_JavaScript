@@ -8,7 +8,9 @@ body{
 }
 body h1{
     font-size: 7em;
+    position: fixed;
+    top:100px;
 }
 body h1 #mili-sec{
-    font-size: 1em;
+    font-size: 0.9em;
 }
