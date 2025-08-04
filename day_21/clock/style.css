@@ -15,5 +15,6 @@ body h1 #mili-sec{
     font-size: 0.4em;
     padding: 20px;
     position: fixed;
+    top: 200px;
     background-color: red;
 }
